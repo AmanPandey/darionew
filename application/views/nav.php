@@ -6,7 +6,7 @@
         <span></span>
         <span></span>
       </button>
-      <a class="navbar-brand text-brand color-e" href="#"><img src="assets/img/logo.png" width="50"/>DARIO<span class="color-b">REALTORS</span></a>
+      <a class="navbar-brand text-brand color-e" href="#"><img src="assets/img/logo.png" width="50" style="margin-top: -20px; margin-right:-15PX;"/>ARIO<span class="color-b"> REALTORS</span></a>
 
       <div class="navbar-collapse collapse justify-content-center" id="navbarDefault">
         <ul class="navbar-nav">

@@ -24,22 +24,13 @@ class Dashboard extends CI_Controller {
 		$this->load->helper('url');
 		$this->load->view('header');
 		$this->load->view('nav');
-		$this->load->view('about');
+		$this->load->view('comming_soon');
 		$this->load->view('footer');
 	}
+	
 
 
-	public function Services()
-	{
-		$this->load->helper('url');
-		$this->load->view('header');
-		$this->load->view('nav');
-		$this->load->view('services');
-		$this->load->view('footer');
-	}
-
-
-	public function products()
+	public function buy_residential()
 	{
 		$this->load->helper('url');
 		$this->load->view('header');
@@ -49,17 +40,7 @@ class Dashboard extends CI_Controller {
 	}
 
 
-	public function contacts()
-	{
-		$this->load->helper('url');
-		$this->load->view('header');
-		$this->load->view('nav');
-		$this->load->view('contacts');
-		$this->load->view('footer');
-	}
-
-
-	public function bookYourAppointment()
+	public function buy_commerecial()
 	{
 		$this->load->helper('url');
 		$this->load->view('header');
@@ -69,14 +50,197 @@ class Dashboard extends CI_Controller {
 	}
 
 
-	public function team()
+	public function buy_land()
 	{
 		$this->load->helper('url');
 		$this->load->view('header');
 		$this->load->view('nav');
-		$this->load->view('team');
+		$this->load->view('comming_soon');
 		$this->load->view('footer');
 	}
+
+
+	public function sell_residential()
+	{
+		$this->load->helper('url');
+		$this->load->view('header');
+		$this->load->view('nav');
+		$this->load->view('comming_soon');
+		$this->load->view('footer');
+	}
+
+
+	public function sell_commerecial()
+	{
+		$this->load->helper('url');
+		$this->load->view('header');
+		$this->load->view('nav');
+		$this->load->view('comming_soon');
+		$this->load->view('footer');
+	}
+
+
+	public function sell_land()
+	{
+		$this->load->helper('url');
+		$this->load->view('header');
+		$this->load->view('nav');
+		$this->load->view('comming_soon');
+		$this->load->view('footer');
+	}
+
+
+	public function rent_wanted()
+	{
+		$this->load->helper('url');
+		$this->load->view('header');
+		$this->load->view('nav');
+		$this->load->view('comming_soon');
+		$this->load->view('footer');
+	}
+
+
+	public function rent_offered()
+	{
+		$this->load->helper('url');
+		$this->load->view('header');
+		$this->load->view('nav');
+		$this->load->view('comming_soon');
+		$this->load->view('footer');
+	}
+
+
+	public function project_completed()
+	{
+		$this->load->helper('url');
+		$this->load->view('header');
+		$this->load->view('nav');
+		$this->load->view('comming_soon');
+		$this->load->view('footer');
+	}
+
+
+	public function project_ongoing()
+	{
+		$this->load->helper('url');
+		$this->load->view('header');
+		$this->load->view('nav');
+		$this->load->view('comming_soon');
+		$this->load->view('footer');
+	}
+
+
+	public function project_upcoming()
+	{
+		$this->load->helper('url');
+		$this->load->view('header');
+		$this->load->view('nav');
+		$this->load->view('comming_soon');
+		$this->load->view('footer');
+	}
+
+
+	public function contact()
+	{
+		$this->load->helper('url');
+		$this->load->view('header');
+		$this->load->view('nav');
+		$this->load->view('comming_soon');
+		$this->load->view('footer');
+	}
+
+
+	public function enquire_now()
+	{
+		$this->load->helper('url');
+		$this->load->view('header');
+		$this->load->view('nav');
+		$this->load->view('comming_soon');
+		$this->load->view('footer');
+	}
+	
+
+	public function blog()
+	{
+		$this->load->helper('url');
+		$this->load->view('header');
+		$this->load->view('nav');
+		$this->load->view('comming_soon');
+		$this->load->view('footer');
+	}
+
+
+	public function sitemap()
+	{
+		$this->load->helper('url');
+		$this->load->view('header');
+		$this->load->view('nav');
+		$this->load->view('comming_soon');
+		$this->load->view('footer');
+	}
+
+
+	public function term_and_condition()
+	{
+		$this->load->helper('url');
+		$this->load->view('header');
+		$this->load->view('nav');
+		$this->load->view('comming_soon');
+		$this->load->view('footer');
+	}
+
+
+	public function career()
+	{
+		$this->load->helper('url');
+		$this->load->view('header');
+		$this->load->view('nav');
+		$this->load->view('comming_soon');
+		$this->load->view('footer');
+	}
+
+
+	public function become_agent()
+	{
+		$this->load->helper('url');
+		$this->load->view('header');
+		$this->load->view('nav');
+		$this->load->view('comming_soon');
+		$this->load->view('footer');
+	}
+
+
+	public function request_sell()
+	{
+		$this->load->helper('url');
+		$this->load->view('header');
+		$this->load->view('nav');
+		$this->load->view('comming_soon');
+		$this->load->view('footer');
+	}
+
+
+	public function privacy_policy()
+	{
+		$this->load->helper('url');
+		$this->load->view('header');
+		$this->load->view('nav');
+		$this->load->view('comming_soon');
+		$this->load->view('footer');
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 
 

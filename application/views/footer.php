@@ -32,26 +32,27 @@ a RERA regulated environment.
               <div class="w-body-a">
                 <ul class="list-unstyled">
                   <li class="item-list-a">
-                    <i class="bi bi-chevron-right"></i> <a href="#">Blog</a>
+                    <i class="bi bi-chevron-right"></i> <a href="<?php echo base_url('Blog'); ?>">Blog</a>
                   </li>
                   <li class="item-list-a">
-                    <i class="bi bi-chevron-right"></i> <a href="#">Site Map</a>
+                    <i class="bi bi-chevron-right"></i> <a href="<?php echo base_url('Site-Map'); ?>">Site Map</a>
                   </li>
                   <li class="item-list-a">
-                    <i class="bi bi-chevron-right"></i> <a href="#">Terms & Conditions</a>
+                    <i class="bi bi-chevron-right"></i> <a href="<?php echo base_url('Term-Condition'); ?>">Terms & Conditions</a>
                   </li>
                   <li class="item-list-a">
-                    <i class="bi bi-chevron-right"></i> <a href="#">Career</a>
+                    <i class="bi bi-chevron-right"></i> <a href="<?php echo base_url('Career'); ?>">Career</a>
                   </li>
                   <li class="item-list-a">
-                    <i class="bi bi-chevron-right"></i> <a href="#">Become Agent</a>
+                    <i class="bi bi-chevron-right"></i> <a href="<?php echo base_url('Become-Agent'); ?>">Become Agent</a>
                   </li>
                   <li class="item-list-a">
-                    <i class="bi bi-chevron-right"></i> <a href="#">Request for sell</a>
+                    <i class="bi bi-chevron-right"></i> <a href="<?php echo base_url('Request-for-Sell'); ?>">Request for sell</a>
                   </li>
                   <li class="item-list-a">
-                    <i class="bi bi-chevron-right"></i> <a href="#">Privacy Policy</a>
+                    <i class="bi bi-chevron-right"></i> <a href="<?php echo base_url('Privacy-Policy'); ?>">Privacy Policy</a>
                   </li>
+
                 </ul>
               </div>
             </div>
@@ -64,11 +65,12 @@ a RERA regulated environment.
             </div>
             <div class="w-body-a">
               <h5 class="color-e"><i class="bi bi-building"></i> Address</h5>
-              <h6>Banjara Hills, Hyderabad, TS, India.</h6>
+              <h6>Banjara Hills, Hyderabad, TS-500033 India.</h6>
               <h5 class="color-e"><i class="bi bi-telephone-forward-fill"></i> Phone</h5>
               <h6>+91 9848713111</h6>
               <h5 class="color-e"><i class="bi bi-envelope-fill"></i> Email</h5>
               <h6>dariorealtors@gmail.com</h6>
+              <h6>cv.dariorealtors@gmail.com</h6>
               <br/>
              <h5 class="color-e">Follow us on social media</h5>
 
@@ -94,6 +96,13 @@ a RERA regulated environment.
                   <i class="bi bi-linkedin" style="font-size: 40px;"  aria-hidden="true"></i>
                 </a>
               </li>
+              
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="bi bi-pinterest" style="font-size: 40px;"  aria-hidden="true"></i>
+                </a>
+              </li>
+
             </ul>
           </div>
 
@@ -113,9 +122,6 @@ a RERA regulated environment.
               &copy;
               <span class="color-a"><span class="color-e">Dario</span> <span style="color:#f05826;">Realtors</span> || All Rights Reserved.
             </p>
-          </div>
-          <div class="credits">
-            Designed by <a href="#">Cloud Timon</a>
           </div>
         </div>
       </div>

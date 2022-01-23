@@ -5,48 +5,49 @@
         <div class="col-sm-12 col-md-4">
           <div class="widget-a">
             <div class="w-header-a">
-              <h3 class="w-title-a text-brand">EstateAgency</h3>
+              <h3 class="w-title-a text-brand"><span class="color-e">Dario</span> <span style="color:#f05826;">Realtors</span></h3>
             </div>
             <div class="w-body-a">
-              <p class="w-text-a color-text-a">
-                Enim minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip exea commodo consequat duis
-                sed aute irure.
+              <p class="w-text-a color-text-a" style="text-align: justify;">
+              Launched in 2017, Dario Realtors is Hyderabad's No.1 online Property marketplace to buy,
+sell, and rent residential and commercial properties. Adjudged as the most preferred real
+estate portal in India by various independent surveys. Dario Realtors is an upcoming name
+in Hyderabad Real Estate.
+              <br/><br/>
+              We represent a new breed of Real Estate Developers, who are emerging as a response to
+the challenges of today’s realty market,increasingly driven by Technology, Professionalism,
+Performance and Evolving Customer Needs, to deliver an unforgettable buyer experience in
+a RERA regulated environment.
               </p>
             </div>
-            <div class="w-footer-a">
-              <ul class="list-unstyled">
-                <li class="color-a">
-                  <span class="color-text-a">Phone .</span> contact@example.com
-                </li>
-                <li class="color-a">
-                  <span class="color-text-a">Email .</span> +54 356 945234
-                </li>
-              </ul>
-            </div>
+
           </div>
         </div>
         <div class="col-sm-12 col-md-4 section-md-t3">
           <div class="widget-a">
             <div class="w-header-a">
-              <h3 class="w-title-a text-brand">The Company</h3>
+              <h3 class="w-title-a text-brand">Quick Links</h3>
             </div>
             <div class="w-body-a">
               <div class="w-body-a">
                 <ul class="list-unstyled">
                   <li class="item-list-a">
+                    <i class="bi bi-chevron-right"></i> <a href="#">Blog</a>
+                  </li>
+                  <li class="item-list-a">
                     <i class="bi bi-chevron-right"></i> <a href="#">Site Map</a>
                   </li>
                   <li class="item-list-a">
-                    <i class="bi bi-chevron-right"></i> <a href="#">Legal</a>
+                    <i class="bi bi-chevron-right"></i> <a href="#">Terms & Conditions</a>
                   </li>
                   <li class="item-list-a">
-                    <i class="bi bi-chevron-right"></i> <a href="#">Agent Admin</a>
+                    <i class="bi bi-chevron-right"></i> <a href="#">Career</a>
                   </li>
                   <li class="item-list-a">
-                    <i class="bi bi-chevron-right"></i> <a href="#">Careers</a>
+                    <i class="bi bi-chevron-right"></i> <a href="#">Become Agent</a>
                   </li>
                   <li class="item-list-a">
-                    <i class="bi bi-chevron-right"></i> <a href="#">Affiliate</a>
+                    <i class="bi bi-chevron-right"></i> <a href="#">Request for sell</a>
                   </li>
                   <li class="item-list-a">
                     <i class="bi bi-chevron-right"></i> <a href="#">Privacy Policy</a>
@@ -59,29 +60,44 @@
         <div class="col-sm-12 col-md-4 section-md-t3">
           <div class="widget-a">
             <div class="w-header-a">
-              <h3 class="w-title-a text-brand">International sites</h3>
+              <h3 class="w-title-a text-brand">Reach us</h3>
             </div>
             <div class="w-body-a">
-              <ul class="list-unstyled">
-                <li class="item-list-a">
-                  <i class="bi bi-chevron-right"></i> <a href="#">Venezuela</a>
-                </li>
-                <li class="item-list-a">
-                  <i class="bi bi-chevron-right"></i> <a href="#">China</a>
-                </li>
-                <li class="item-list-a">
-                  <i class="bi bi-chevron-right"></i> <a href="#">Hong Kong</a>
-                </li>
-                <li class="item-list-a">
-                  <i class="bi bi-chevron-right"></i> <a href="#">Argentina</a>
-                </li>
-                <li class="item-list-a">
-                  <i class="bi bi-chevron-right"></i> <a href="#">Singapore</a>
-                </li>
-                <li class="item-list-a">
-                  <i class="bi bi-chevron-right"></i> <a href="#">Philippines</a>
-                </li>
-              </ul>
+              <h5 class="color-e"><i class="bi bi-building"></i> Address</h5>
+              <h6>Banjara Hills, Hyderabad, TS, India.</h6>
+              <h5 class="color-e"><i class="bi bi-telephone-forward-fill"></i> Phone</h5>
+              <h6>+91 9848713111</h6>
+              <h5 class="color-e"><i class="bi bi-envelope-fill"></i> Email</h5>
+              <h6>dariorealtors@gmail.com</h6>
+              <br/>
+             <h5 class="color-e">Follow us on social media</h5>
+
+             <div class="socials-a">
+            <ul class="list-inline">
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="bi bi-facebook" style="font-size: 40px;"  aria-hidden="true"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="bi bi-twitter" style="font-size: 40px;" aria-hidden="true"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="bi bi-instagram" style="font-size: 40px;"  aria-hidden="true"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="bi bi-linkedin" style="font-size: 40px;"  aria-hidden="true"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+
+
             </div>
           </div>
         </div>
@@ -91,64 +107,15 @@
   <footer>
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
-          <nav class="nav-footer">
-            <ul class="list-inline">
-              <li class="list-inline-item">
-                <a href="#">Home</a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">About</a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">Property</a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">Blog</a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">Contact</a>
-              </li>
-            </ul>
-          </nav>
-          <div class="socials-a">
-            <ul class="list-inline">
-              <li class="list-inline-item">
-                <a href="#">
-                  <i class="bi bi-facebook" aria-hidden="true"></i>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">
-                  <i class="bi bi-twitter" aria-hidden="true"></i>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">
-                  <i class="bi bi-instagram" aria-hidden="true"></i>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">
-                  <i class="bi bi-linkedin" aria-hidden="true"></i>
-                </a>
-              </li>
-            </ul>
-          </div>
+        <div class="col-md-12">          
           <div class="copyright-footer">
             <p class="copyright color-text-a">
-              &copy; Copyright
-              <span class="color-a">EstateAgency</span> All Rights Reserved.
+              &copy;
+              <span class="color-a"><span class="color-e">Dario</span> <span style="color:#f05826;">Realtors</span> || All Rights Reserved.
             </p>
           </div>
           <div class="credits">
-            <!--
-            All the links in the footer should remain intact.
-            You can delete the links only if you purchased the pro version.
-            Licensing information: https://bootstrapmade.com/license/
-            Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=EstateAgency
-          -->
-            Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+            Designed by <a href="#">Cloud Timon</a>
           </div>
         </div>
       </div>

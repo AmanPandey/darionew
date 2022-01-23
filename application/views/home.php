@@ -11,15 +11,14 @@
           <div class="row">
             <div class="col-lg-8">
               <div class="intro-body">
-                <p class="intro-title-top">Doral, Florida
-                  <br> 78345
+                <p class="intro-title-top">Hyderbad, India
                 </p>
                 <h1 class="intro-title mb-4 ">
-                  <span class="color-b">204 </span> Mount
-                  <br> Olive Road Two
+                  <span class="color-b">Places </span> To Live,
+                  <br> Work & Wonder.
                 </h1>
                 <p class="intro-subtitle intro-price">
-                  <a href="#"><span class="price-a">rent | $ 12.000</span></a>
+                  <a href="#"><span class="price-a">Buy in compatible range</span></a>
                 </p>
               </div>
             </div>
@@ -36,15 +35,15 @@
           <div class="row">
             <div class="col-lg-8">
               <div class="intro-body">
-                <p class="intro-title-top">Doral, Florida
-                  <br> 78345
+                <p class="intro-title-top">Hyderabad, India
                 </p>
                 <h1 class="intro-title mb-4">
-                  <span class="color-b">204 </span> Rino
-                  <br> Venda Road Five
+
+                <span class="color-b">Places </span> To Live,
+                  <br> Work & Wonder.
                 </h1>
                 <p class="intro-subtitle intro-price">
-                  <a href="#"><span class="price-a">rent | $ 12.000</span></a>
+                  <a href="#"><span class="price-a">Sell with best deals</span></a>
                 </p>
               </div>
             </div>
@@ -61,15 +60,16 @@
           <div class="row">
             <div class="col-lg-8">
               <div class="intro-body">
-                <p class="intro-title-top">Doral, Florida
+                <p class="intro-title-top">Hyderabad, India
                   <br> 78345
                 </p>
                 <h1 class="intro-title mb-4">
-                  <span class="color-b">204 </span> Alira
-                  <br> Roan Road One
+                  
+                <span class="color-b">Places </span> To Live,
+                  <br> Work & Wonder.
                 </h1>
                 <p class="intro-subtitle intro-price">
-                  <a href="#"><span class="price-a">rent | $ 12.000</span></a>
+                  <a href="#"><span class="price-a">Rent in Affordable Cost</span></a>
                 </p>
               </div>
             </div>
@@ -83,6 +83,9 @@
 </div><!-- End Intro Section -->
 
 <main id="main">
+
+
+
 
 <!-- ======= Services Section ======= -->
 <section class="section-services section-t8">
@@ -101,54 +104,6 @@
         <div class="card-box-c foo">
           <div class="card-header-c d-flex">
             <div class="card-box-ico">
-              <span class="bi bi-cart"></span>
-            </div>
-            <div class="card-title-c align-self-center">
-              <h2 class="title-c">Lifestyle</h2>
-            </div>
-          </div>
-          <div class="card-body-c">
-            <p class="content-c">
-              Sed porttitor lectus nibh. Cras ultricies ligula sed magna dictum porta. Praesent sapien massa,
-              convallis a pellentesque
-              nec, egestas non nisi.
-            </p>
-          </div>
-          <div class="card-footer-c">
-            <a href="#" class="link-c link-icon">Read more
-              <span class="bi bi-chevron-right"></span>
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="card-box-c foo">
-          <div class="card-header-c d-flex">
-            <div class="card-box-ico">
-              <span class="bi bi-calendar4-week"></span>
-            </div>
-            <div class="card-title-c align-self-center">
-              <h2 class="title-c">Loans</h2>
-            </div>
-          </div>
-          <div class="card-body-c">
-            <p class="content-c">
-              Nulla porttitor accumsan tincidunt. Curabitur aliquet quam id dui posuere blandit. Mauris blandit
-              aliquet elit, eget tincidunt
-              nibh pulvinar a.
-            </p>
-          </div>
-          <div class="card-footer-c">
-            <a href="#" class="link-c link-icon">Read more
-              <span class="bi bi-calendar4-week"></span>
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="card-box-c foo">
-          <div class="card-header-c d-flex">
-            <div class="card-box-ico">
               <span class="bi bi-card-checklist"></span>
             </div>
             <div class="card-title-c align-self-center">
@@ -162,16 +117,57 @@
               nec, egestas non nisi.
             </p>
           </div>
-          <div class="card-footer-c">
-            <a href="#" class="link-c link-icon">Read more
-              <span class="bi bi-chevron-right"></span>
-            </a>
+          
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="card-box-c foo">
+          <div class="card-header-c d-flex">
+            <div class="card-box-ico">
+              <span class="bi bi-card-checklist"></span>
+            </div>
+            <div class="card-title-c align-self-center">
+              <h2 class="title-c">Rent</h2>
+            </div>
           </div>
+          <div class="card-body-c">
+            <p class="content-c">
+              Nulla porttitor accumsan tincidunt. Curabitur aliquet quam id dui posuere blandit. Mauris blandit
+              aliquet elit, eget tincidunt
+              nibh pulvinar a.
+            </p>
+          </div>
+          
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="card-box-c foo">
+          <div class="card-header-c d-flex">
+            <div class="card-box-ico">
+              <span class="bi bi-card-checklist"></span>
+            </div>
+            <div class="card-title-c align-self-center">
+              <h2 class="title-c">Buy</h2>
+            </div>
+          </div>
+          <div class="card-body-c">
+            <p class="content-c">
+              Sed porttitor lectus nibh. Cras ultricies ligula sed magna dictum porta. Praesent sapien massa,
+              convallis a pellentesque
+              nec, egestas non nisi.
+            </p>
+          </div>
+          
         </div>
       </div>
     </div>
   </div>
 </section><!-- End Services Section -->
+
+
+
+
+
 
 <!-- ======= Latest Properties Section ======= -->
 <section class="section-property section-t8">
@@ -180,12 +176,7 @@
       <div class="col-md-12">
         <div class="title-wrap d-flex justify-content-between">
           <div class="title-box">
-            <h2 class="title-a">Latest Properties</h2>
-          </div>
-          <div class="title-link">
-            <a href="property-grid.html">All Property
-              <span class="bi bi-chevron-right"></span>
-            </a>
+            <h2 class="title-a">Properties</h2>
           </div>
         </div>
       </div>
@@ -392,319 +383,108 @@
   </div>
 </section><!-- End Latest Properties Section -->
 
+
+
+
+
+
 <!-- ======= Agents Section ======= -->
 <section class="section-agents section-t8">
   <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="title-wrap d-flex justify-content-between">
-          <div class="title-box">
-            <h2 class="title-a">Best Agents</h2>
-          </div>
-          <div class="title-link">
-            <a href="agents-grid.html">All Agents
-              <span class="bi bi-chevron-right"></span>
-            </a>
-          </div>
-        </div>
+    <div class="row" style="text-align: justify;  margin-left:5px; margin-right: 5px;">
+
+        
+          <h3><i class="bi bi-card-heading"></i> Property in Hyderabad</h3>
+          Being situated in a south-west region of Telangana, Hyderabad is also known
+as Cyberabad as it has established itself as the hub of IT, Biotech Industry and
+Pharmaceuticals. Including the amalgamation of ancient and modern lifestyle, Hyderabad is
+more likely a cosmopolitan city that features everything from 5-star hotels, trendy shopping
+malls to monuments like Charminar, Hitex Gate, Chowmahalla, Gulzar Houz, Qutb Shahi
+Tombs, Kaman Sher Dil. This city is not just known for its freshwater pearls and biryanis but
+has lagged several cities in terms of real estate business where you will find more than 1000
+upcoming residential projects in Hyderabad. You will be amazed to know that Hyderabad has
+been announced as the best city that is offering the lavish living standards by the Mercer''s
+Quality of Living Report 2015. And this is the reason why people are seeking flats for rent in
+Hyderabad, PG in Hyderabad, apartments in Hyderabad. This is the fourth most populous
+city in India with more than 1300 IT/ITeS companies which are contributing 15% of India's
+exports in the IT sector. Some of the well-known companies located in Hyderabad are
+Accenture, Tata Consultancy Services, Genpact, Infosys, Oracle, Cognizant, Verizon, IBM,
+Google, Microsoft, Hewlett-Packard, Amazon, Capgemini, Dell, etc. Gachibowli, Kondapur,
+Nallagandla, Uppal are some well-known localities in Hyderabad that are very near to all the
+civic utilities and perfect for buying or renting a property in Hyderabad, where you can
+choose to buy your own house in Hyderabad, commercial space or office at an affordable
+price.
+<br/><br/>
+          Known as the Pearl City, Hyderabad is the common capital of Telangana and
+          Andhra Pradesh. Hyderabad is also known as the Hi-Tech City or Cyberabad because
+          many technology firms have major offices in the city. Hyderabad is the largest city in
+          Telangana and Andhra Pradesh. The growth of Hyderabad can be attributed to early
+          industrialisation, rail-road networks and connectivity with major ports. In the recent
+          past, the growth of the services sector is a major driving force behind the growth of
+          Hyderabad. Hyderabad was also a prominent cultural centre. The city is divided into
+          five zones and 18 circles. The five zones in Hyderabad are North, South, East, West
+          and Central. Hyderabad was ruled by the Qutb Shahi Dynasty, Kakatiya Kings,
+          Mughals, Nizams of Hyderabad, and the British at various phases in its history.
+
       </div>
     </div>
-    <div class="row">
-      <div class="col-md-4">
-        <div class="card-box-d">
-          <div class="card-img-d">
-            <img src="assets/img/agent-4.jpg" alt="" class="img-d img-fluid">
-          </div>
-          <div class="card-overlay card-overlay-hover">
-            <div class="card-header-d">
-              <div class="card-title-d align-self-center">
-                <h3 class="title-d">
-                  <a href="agent-single.html" class="link-two">Margaret Sotillo
-                    <br> Escala</a>
-                </h3>
-              </div>
-            </div>
-            <div class="card-body-d">
-              <p class="content-d color-text-a">
-                Sed porttitor lectus nibh, Cras ultricies ligula sed magna dictum porta two.
-              </p>
-              <div class="info-agents color-a">
-                <p>
-                  <strong>Phone: </strong> +54 356 945234
-                </p>
-                <p>
-                  <strong>Email: </strong> agents@example.com
-                </p>
-              </div>
-            </div>
-            <div class="card-footer-d">
-              <div class="socials-footer d-flex justify-content-center">
-                <ul class="list-inline">
-                  <li class="list-inline-item">
-                    <a href="#" class="link-one">
-                      <i class="bi bi-facebook" aria-hidden="true"></i>
-                    </a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="#" class="link-one">
-                      <i class="bi bi-twitter" aria-hidden="true"></i>
-                    </a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="#" class="link-one">
-                      <i class="bi bi-instagram" aria-hidden="true"></i>
-                    </a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="#" class="link-one">
-                      <i class="bi bi-linkedin" aria-hidden="true"></i>
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="card-box-d">
-          <div class="card-img-d">
-            <img src="assets/img/agent-1.jpg" alt="" class="img-d img-fluid">
-          </div>
-          <div class="card-overlay card-overlay-hover">
-            <div class="card-header-d">
-              <div class="card-title-d align-self-center">
-                <h3 class="title-d">
-                  <a href="agent-single.html" class="link-two">Stiven Spilver
-                    <br> Darw</a>
-                </h3>
-              </div>
-            </div>
-            <div class="card-body-d">
-              <p class="content-d color-text-a">
-                Sed porttitor lectus nibh, Cras ultricies ligula sed magna dictum porta two.
-              </p>
-              <div class="info-agents color-a">
-                <p>
-                  <strong>Phone: </strong> +54 356 945234
-                </p>
-                <p>
-                  <strong>Email: </strong> agents@example.com
-                </p>
-              </div>
-            </div>
-            <div class="card-footer-d">
-              <div class="socials-footer d-flex justify-content-center">
-                <ul class="list-inline">
-                  <li class="list-inline-item">
-                    <a href="#" class="link-one">
-                      <i class="bi bi-facebook" aria-hidden="true"></i>
-                    </a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="#" class="link-one">
-                      <i class="bi bi-twitter" aria-hidden="true"></i>
-                    </a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="#" class="link-one">
-                      <i class="bi bi-instagram" aria-hidden="true"></i>
-                    </a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="#" class="link-one">
-                      <i class="bi bi-linkedin" aria-hidden="true"></i>
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="card-box-d">
-          <div class="card-img-d">
-            <img src="assets/img/agent-5.jpg" alt="" class="img-d img-fluid">
-          </div>
-          <div class="card-overlay card-overlay-hover">
-            <div class="card-header-d">
-              <div class="card-title-d align-self-center">
-                <h3 class="title-d">
-                  <a href="agent-single.html" class="link-two">Emma Toledo
-                    <br> Cascada</a>
-                </h3>
-              </div>
-            </div>
-            <div class="card-body-d">
-              <p class="content-d color-text-a">
-                Sed porttitor lectus nibh, Cras ultricies ligula sed magna dictum porta two.
-              </p>
-              <div class="info-agents color-a">
-                <p>
-                  <strong>Phone: </strong> +54 356 945234
-                </p>
-                <p>
-                  <strong>Email: </strong> agents@example.com
-                </p>
-              </div>
-            </div>
-            <div class="card-footer-d">
-              <div class="socials-footer d-flex justify-content-center">
-                <ul class="list-inline">
-                  <li class="list-inline-item">
-                    <a href="#" class="link-one">
-                      <i class="bi bi-facebook" aria-hidden="true"></i>
-                    </a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="#" class="link-one">
-                      <i class="bi bi-twitter" aria-hidden="true"></i>
-                    </a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="#" class="link-one">
-                      <i class="bi bi-instagram" aria-hidden="true"></i>
-                    </a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a href="#" class="link-one">
-                      <i class="bi bi-linkedin" aria-hidden="true"></i>
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
 </section><!-- End Agents Section -->
 
-<!-- ======= Latest News Section ======= -->
-<section class="section-news section-t8">
+
+
+<!-- ======= Agents Section ======= -->
+<section class="section-agents section-t8">
   <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="title-wrap d-flex justify-content-between">
-          <div class="title-box">
-            <h2 class="title-a">Latest News</h2>
-          </div>
-          <div class="title-link">
-            <a href="blog-grid.html">All News
-              <span class="bi bi-chevron-right"></span>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
+    <div class="row" style="text-align: justify;  margin-left:5px; margin-right: 5px;">
 
-    <div id="news-carousel" class="swiper">
-      <div class="swiper-wrapper">
+        
+          <h3><i class="bi bi-card-heading"></i> Lifestyle</h3>
+          
+          Hyderabad produces more films than any other Indian city other than Mumbai.
+            Hyderabadi architecture and cuisine are quite well-known. Hyderabadi cuisine,
+            especially the popular Hyderabadi Biryani, is influenced by Mughals. The city has
+            many heritage buildings and many historical monuments. Hindi, Telugu and English
+            are among the most popular languages spoken in Hyderabad. Charminar, Mecca
+            Masjid, Golconda Fort, Qutb Shahi tombs, Birla Mandir, and Chilkur Balaji temple are
+            in Hyderabad. Dakshin, Bawarchi and Paradise are some of the most popular
+            restaurants in Hyderabad. Hyderabad also has some good parks such as Nehru
+            Zoological Park, KBR National Park, Mrugavani National Park, Hyderabad Botanical
+            Gardens and Mahavir Harina Vanasthali National Park are in Hyderabad. Inorbit Mall,
+            Ashoka Metropolitan Mall, City Centre Mall and Hyderabad Central are some of the
+            major shopping malls in Hyderabad.
 
-        <div class="carousel-item-c swiper-slide">
-          <div class="card-box-b card-shadow news-box">
-            <div class="img-box-b">
-              <img src="assets/img/post-2.jpg" alt="" class="img-b img-fluid">
-            </div>
-            <div class="card-overlay">
-              <div class="card-header-b">
-                <div class="card-category-b">
-                  <a href="#" class="category-b">House</a>
-                </div>
-                <div class="card-title-b">
-                  <h2 class="title-2">
-                    <a href="blog-single.html">House is comming
-                      <br> new</a>
-                  </h2>
-                </div>
-                <div class="card-date">
-                  <span class="date-b">18 Sep. 2017</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div><!-- End carousel item -->
-
-        <div class="carousel-item-c swiper-slide">
-          <div class="card-box-b card-shadow news-box">
-            <div class="img-box-b">
-              <img src="assets/img/post-5.jpg" alt="" class="img-b img-fluid">
-            </div>
-            <div class="card-overlay">
-              <div class="card-header-b">
-                <div class="card-category-b">
-                  <a href="#" class="category-b">Travel</a>
-                </div>
-                <div class="card-title-b">
-                  <h2 class="title-2">
-                    <a href="blog-single.html">Travel is comming
-                      <br> new</a>
-                  </h2>
-                </div>
-                <div class="card-date">
-                  <span class="date-b">18 Sep. 2017</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div><!-- End carousel item -->
-
-        <div class="carousel-item-c swiper-slide">
-          <div class="card-box-b card-shadow news-box">
-            <div class="img-box-b">
-              <img src="assets/img/post-7.jpg" alt="" class="img-b img-fluid">
-            </div>
-            <div class="card-overlay">
-              <div class="card-header-b">
-                <div class="card-category-b">
-                  <a href="#" class="category-b">Park</a>
-                </div>
-                <div class="card-title-b">
-                  <h2 class="title-2">
-                    <a href="blog-single.html">Park is comming
-                      <br> new</a>
-                  </h2>
-                </div>
-                <div class="card-date">
-                  <span class="date-b">18 Sep. 2017</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div><!-- End carousel item -->
-
-        <div class="carousel-item-c swiper-slide">
-          <div class="card-box-b card-shadow news-box">
-            <div class="img-box-b">
-              <img src="assets/img/post-3.jpg" alt="" class="img-b img-fluid">
-            </div>
-            <div class="card-overlay">
-              <div class="card-header-b">
-                <div class="card-category-b">
-                  <a href="#" class="category-b">Travel</a>
-                </div>
-                <div class="card-title-b">
-                  <h2 class="title-2">
-                    <a href="#">Travel is comming
-                      <br> new</a>
-                  </h2>
-                </div>
-                <div class="card-date">
-                  <span class="date-b">18 Sep. 2017</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div><!-- End carousel item -->
 
       </div>
     </div>
+</section><!-- End Agents Section -->
 
-    <div class="news-carousel-pagination carousel-pagination"></div>
-  </div>
-</section><!-- End Latest News Section -->
+
+
+
+
+<!-- ======= Agents Section ======= -->
+<section class="section-agents section-t8">
+  <div class="container">
+    <div class="row" style="text-align: justify;  margin-left:5px; margin-right: 5px;">
+
+        
+          <h3><i class="bi bi-card-heading"></i> Demographics</h3>
+          
+          Hyderabad's population was 6,809,970 according to the 2011 census. But,
+          Hyderabad's population is expected to grow to 15 million people by 2021, largely
+          because of migration from other parts of the country. Part of the reason why
+          Hyderabad's official population figures rose was that when the Greater Hyderabad
+          Municipal Corporation was formed, the area under the city rose from 170 sq kms to
+          650 sq kms. Roughly two-third of the population follow Hinduism and nearly
+          one-third of the population follow Islam.
+
+      </div>
+    </div>
+</section><!-- End Agents Section -->
+
+
+
+
 
 <!-- ======= Testimonials Section ======= -->
 <section class="section-testimonials section-t8 nav-arrow-a">

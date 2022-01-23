@@ -19,31 +19,54 @@
             <a class="nav-link " href="about.html">About</a>
           </li>
 
-          <li class="nav-item">
-            <a class="nav-link " href="property-grid.html">Property</a>
-          </li>
-
-          <li class="nav-item">
-            <a class="nav-link " href="blog-grid.html">Blog</a>
-          </li>
-
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Buy</a>
             <div class="dropdown-menu">
-              <a class="dropdown-item " href="property-single.html">Property Single</a>
-              <a class="dropdown-item " href="blog-single.html">Blog Single</a>
-              <a class="dropdown-item " href="agents-grid.html">Agents Grid</a>
-              <a class="dropdown-item " href="agent-single.html">Agent Single</a>
+              <a class="dropdown-item " href="property-single.html">Residential</a>
+              <a class="dropdown-item " href="blog-single.html">Commercial</a>
+              <a class="dropdown-item " href="agents-grid.html">Land</a>
             </div>
           </li>
+
+          
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sell</a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item " href="property-single.html">Residential</a>
+              <a class="dropdown-item " href="blog-single.html">Commercial</a>
+              <a class="dropdown-item " href="agents-grid.html">Land</a>
+            </div>
+          </li>
+
+          
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Rent</a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item " href="property-single.html">Wanted</a>
+              <a class="dropdown-item " href="blog-single.html">Offered</a>
+            </div>
+          </li>
+          
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Projects</a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item " href="property-single.html">Completed</a>
+              <a class="dropdown-item " href="blog-single.html">Ongoing</a>
+              <a class="dropdown-item " href="blog-single.html">Upcoming</a>
+            </div>
+          </li>
+
+
           <li class="nav-item">
             <a class="nav-link " href="contact.html">Contact</a>
           </li>
         </ul>
       </div>
 
-      <button type="button" class="btn btn-b-n navbar-toggle-box navbar-toggle-box-collapse" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01">
-        <i class="bi bi-search"></i>
+      <button type="button" class="btn btn-b-n navbar-toggle-box navbar-toggle-box-collapse" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" style="border-radius: 25px;;">
+        <span class="enow">Enquire Now</span>
+        
+        <span class="enow1"><i class="bi bi-pencil"></i></span>
       </button>
 
     </div>

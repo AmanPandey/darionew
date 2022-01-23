@@ -193,6 +193,29 @@ a:hover {
   left: 0;
 }
 
+.enow {
+  display:block;
+  padding:20px; 
+  font-size:24px; 
+  font-weight:400;
+}
+@media (max-width: 767px) {
+  .enow {
+    display: none;
+  }
+}
+.enow1 {
+  display:none;
+}
+@media (max-width: 767px) {
+  .enow1 {
+    display: block;
+    padding:2px; 
+    font-size:18px; 
+    font-weight:400;
+  }
+}
+
 /*------/ Pagination-a /------*/
 .pagination-a {
   text-decoration: none;
@@ -249,20 +272,20 @@ a:hover {
 
 /*------/ Space Padding /------*/
 .section-t8 {
-  padding-top: 8rem;
+  padding-top: 4rem;
 }
 @media (max-width: 767px) {
   .section-t8 {
-    padding-top: 4rem;
+    padding-top: 2rem;
   }
 }
 
 .section-t4 {
-  padding-top: 4rem;
+  padding-top: 2rem;
 }
 @media (max-width: 767px) {
   .section-t4 {
-    padding-top: 2rem;
+    padding-top: 1rem;
   }
 }
 
@@ -1497,7 +1520,7 @@ a:hover {
 .title-c {
   font-size: 2.5rem;
   font-weight: 600;
-  margin-left: -40px;
+  margin-left: 0px;
 }
 @media (min-width: 768px) {
   .title-c {

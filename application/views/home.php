@@ -188,19 +188,20 @@
         <div class="carousel-item-b swiper-slide">
           <div class="card-box-a card-shadow">
             <div class="img-box-a">
-              <img src="assets/img/property-6.jpg" alt="" class="img-a img-fluid">
+              <img src="assets/img/property-1.jpg" alt="" class="img-a img-fluid">
             </div>
             <div class="card-overlay">
               <div class="card-overlay-a-content">
                 <div class="card-header-a">
                   <h2 class="card-title-a">
-                    <a href="property-single.html">206 Mount
-                      <br /> Olive Road Two</a>
+                   
+                    <a href="#">Building for sale 
+                      <br /> at Boduppal</a>
                   </h2>
                 </div>
                 <div class="card-body-a">
                   <div class="price-box d-flex">
-                    <span class="price-a">rent | $ 12.000</span>
+                    <span class="price-a">Area | 300 sq yds</span>
                   </div>
                   <a href="#" class="link-a">Click here to view
                     <span class="bi bi-chevron-right"></span>
@@ -210,21 +211,61 @@
                   <ul class="card-info d-flex justify-content-around">
                     <li>
                       <h4 class="card-info-title">Area</h4>
-                      <span>340m
-                        <sup>2</sup>
+                        <span>9500sft</span>
                       </span>
                     </li>
                     <li>
-                      <h4 class="card-info-title">Beds</h4>
-                      <span>2</span>
+                      <h4 class="card-info-title">Floor</h4>
+                        <span>G + 2 + pent house</span>
+                      </span>
                     </li>
                     <li>
-                      <h4 class="card-info-title">Baths</h4>
-                      <span>4</span>
+                      <h4 class="card-info-title">Rooms</h4>
+                        <span>2BHK 6 portions</span>
+                      </span>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div><!-- End carousel item -->
+
+        <div class="carousel-item-b swiper-slide">
+          <div class="card-box-a card-shadow">
+            <div class="img-box-a">
+              <img src="assets/img/property-2.jpg" alt="" class="img-a img-fluid">
+            </div>
+            <div class="card-overlay">
+              <div class="card-overlay-a-content">
+                <div class="card-header-a">
+                  <h2 class="card-title-a">
+                    
+                  <a href="#">Building for sale 
+                      <br /> at Saroornagar</a>
+                  </h2>
+                </div>
+                <div class="card-body-a">
+                  <div class="price-box d-flex">
+                    <span class="price-a">305sq yds G plus 2 </span>
+                  </div>
+                  <a href="#" class="link-a">Click here to view
+                    <span class="bi bi-chevron-right"></span>
+                  </a>
+                </div>
+                <div class="card-footer-a">
+                  <ul class="card-info d-flex justify-content-around">
+                    <li>
+                      <h4 class="card-info-title">Area</h4>
+                      <span>8000sft</span>
                     </li>
                     <li>
-                      <h4 class="card-info-title">Garages</h4>
-                      <span>1</span>
+                      <h4 class="card-info-title">Rooms</h4>
+                      <span>1BHK 6 portions</span>
+                    </li>
+                    <li>
+                      <h4 class="card-info-title">Rooms</h4>
+                      <span>2BHK 3 portions</span>
                     </li>
                   </ul>
                 </div>
@@ -242,15 +283,16 @@
               <div class="card-overlay-a-content">
                 <div class="card-header-a">
                   <h2 class="card-title-a">
-                    <a href="property-single.html">157 West
-                      <br /> Central Park</a>
+
+                    <a href="#">Commercial Building for sale
+                      <br /> at Shadnagar Pargi Road</a>
                   </h2>
                 </div>
                 <div class="card-body-a">
                   <div class="price-box d-flex">
-                    <span class="price-a">rent | $ 12.000</span>
+                    <span class="price-a">3300 sq Yds Semi construction </span>
                   </div>
-                  <a href="property-single.html" class="link-a">Click here to view
+                  <a href="#" class="link-a">Click here to view
                     <span class="bi bi-chevron-right"></span>
                   </a>
                 </div>
@@ -258,21 +300,14 @@
                   <ul class="card-info d-flex justify-content-around">
                     <li>
                       <h4 class="card-info-title">Area</h4>
-                      <span>340m
-                        <sup>2</sup>
+                      <span>45000sft
                       </span>
                     </li>
+                    
                     <li>
-                      <h4 class="card-info-title">Beds</h4>
-                      <span>2</span>
-                    </li>
-                    <li>
-                      <h4 class="card-info-title">Baths</h4>
-                      <span>4</span>
-                    </li>
-                    <li>
-                      <h4 class="card-info-title">Garages</h4>
-                      <span>1</span>
+                      <h4 class="card-info-title">Price</h4>
+                      <span>10 crs
+                      </span>
                     </li>
                   </ul>
                 </div>
@@ -284,93 +319,23 @@
         <div class="carousel-item-b swiper-slide">
           <div class="card-box-a card-shadow">
             <div class="img-box-a">
-              <img src="assets/img/property-7.jpg" alt="" class="img-a img-fluid">
+              <img src="assets/img/property-4.jpg" alt="" class="img-a img-fluid">
             </div>
             <div class="card-overlay">
               <div class="card-overlay-a-content">
                 <div class="card-header-a">
                   <h2 class="card-title-a">
-                    <a href="property-single.html">245 Azabu
-                      <br /> Nishi Park let</a>
+                    <a href="#">Plots for sale at
+                      <br/>Bangalore National Highway</a>
                   </h2>
                 </div>
                 <div class="card-body-a">
                   <div class="price-box d-flex">
-                    <span class="price-a">rent | $ 12.000</span>
+                    <span class="price-a">DTCP Layout Ready</span>
                   </div>
                   <a href="property-single.html" class="link-a">Click here to view
                     <span class="bi bi-chevron-right"></span>
                   </a>
-                </div>
-                <div class="card-footer-a">
-                  <ul class="card-info d-flex justify-content-around">
-                    <li>
-                      <h4 class="card-info-title">Area</h4>
-                      <span>340m
-                        <sup>2</sup>
-                      </span>
-                    </li>
-                    <li>
-                      <h4 class="card-info-title">Beds</h4>
-                      <span>2</span>
-                    </li>
-                    <li>
-                      <h4 class="card-info-title">Baths</h4>
-                      <span>4</span>
-                    </li>
-                    <li>
-                      <h4 class="card-info-title">Garages</h4>
-                      <span>1</span>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div><!-- End carousel item -->
-
-        <div class="carousel-item-b swiper-slide">
-          <div class="card-box-a card-shadow">
-            <div class="img-box-a">
-              <img src="assets/img/property-10.jpg" alt="" class="img-a img-fluid">
-            </div>
-            <div class="card-overlay">
-              <div class="card-overlay-a-content">
-                <div class="card-header-a">
-                  <h2 class="card-title-a">
-                    <a href="property-single.html">204 Montal
-                      <br /> South Bela Two</a>
-                  </h2>
-                </div>
-                <div class="card-body-a">
-                  <div class="price-box d-flex">
-                    <span class="price-a">rent | $ 12.000</span>
-                  </div>
-                  <a href="property-single.html" class="link-a">Click here to view
-                    <span class="bi bi-chevron-right"></span>
-                  </a>
-                </div>
-                <div class="card-footer-a">
-                  <ul class="card-info d-flex justify-content-around">
-                    <li>
-                      <h4 class="card-info-title">Area</h4>
-                      <span>340m
-                        <sup>2</sup>
-                      </span>
-                    </li>
-                    <li>
-                      <h4 class="card-info-title">Beds</h4>
-                      <span>2</span>
-                    </li>
-                    <li>
-                      <h4 class="card-info-title">Baths</h4>
-                      <span>4</span>
-                    </li>
-                    <li>
-                      <h4 class="card-info-title">Garages</h4>
-                      <span>1</span>
-                    </li>
-                  </ul>
                 </div>
               </div>
             </div>
@@ -516,14 +481,12 @@ price.
                 </div>
                 <div class="testimonials-content">
                   <p class="testimonial-text">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, cupiditate ea nam praesentium
-                    debitis hic ber quibusdam
-                    voluptatibus officia expedita corpori.
+                  We are so grateful to have been recommended the services of All About Real Estate. We were fortunate enough to have had Gabby, Teena and Tania all play a role in selling our first home promptly, professionally and effortlessly.
                   </p>
                 </div>
                 <div class="testimonial-author-box">
                   <img src="assets/img/mini-testimonial-1.jpg" alt="" class="testimonial-avatar">
-                  <h5 class="testimonial-author">Albert & Erika</h5>
+                  <h5 class="testimonial-author">Mr. Mahesh</h5>
                 </div>
               </div>
             </div>
@@ -544,14 +507,12 @@ price.
                 </div>
                 <div class="testimonials-content">
                   <p class="testimonial-text">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, cupiditate ea nam praesentium
-                    debitis hic ber quibusdam
-                    voluptatibus officia expedita corpori.
+                  There are no words to express my huge gratitude you to you and to Teena for the advice you provided and for being so accommodating and responsive to all the requests regarding the properties I viewed and particularly the property I bought.
                   </p>
                 </div>
                 <div class="testimonial-author-box">
                   <img src="assets/img/mini-testimonial-2.jpg" alt="" class="testimonial-avatar">
-                  <h5 class="testimonial-author">Pablo & Emma</h5>
+                  <h5 class="testimonial-author">Mr. Sai Krishna</h5>
                 </div>
               </div>
             </div>

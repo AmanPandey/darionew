@@ -12,11 +12,16 @@
         <ul class="navbar-nav">
 
           <li class="nav-item">
-            <a class="nav-link active" href="<?php echo base_url(); ?>">Home</a>
+            <a class="nav-link" href="<?php echo base_url(); ?>">Home</a>
           </li>
 
-          <li class="nav-item">
-            <a class="nav-link " href="<?php echo base_url('About-Us'); ?>">About</a>
+
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item " href="<?php echo base_url('About-Us'); ?>">About Us</a>
+              <a class="dropdown-item " href="<?php echo base_url('Listed-Properties'); ?>">Listed Properties</a>
+            </div>
           </li>
 
           <li class="nav-item dropdown">
@@ -52,6 +57,11 @@
               <a class="dropdown-item " href="<?php echo base_url('Project-Ongoing'); ?>">Ongoing</a>
               <a class="dropdown-item " href="<?php echo base_url('Project-Upcoming'); ?>">Upcoming</a>
             </div>
+          </li>
+
+
+          <li class="nav-item">
+            <a class="nav-link " href="<?php echo base_url('Swachh-Bharat-Mission'); ?>">Blog</a>
           </li>
 
 

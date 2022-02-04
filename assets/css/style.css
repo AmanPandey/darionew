@@ -442,7 +442,7 @@ a:hover {
 }
 .nav-arrow-b .owl-arrow .owl-nav .owl-prev:hover,
 .nav-arrow-b .owl-arrow .owl-nav .owl-next:hover {
-  background-color: #26a356;
+  background-color: #0d6efd;
 }
 .nav-arrow-b .owl-arrow .owl-nav .owl-next {
   margin-left: 0px;
@@ -478,7 +478,7 @@ a:hover {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #4bd680;
+  background: #00b3fe;
   color: #fff;
 }
 .back-to-top.active {
@@ -563,7 +563,7 @@ a:hover {
   border-radius: 0;
 }
 .btn.btn-b-n:hover {
-  background-color: #26a356;
+  background-color: #00b3fe;
   color: #ffffff;
 }
 
@@ -577,6 +577,8 @@ a:hover {
 .navbar-toggle-box i {
   line-height: 0;
 }
+
+
 
 /*--------------------------------------------------------------
 # Navbar

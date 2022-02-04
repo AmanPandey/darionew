@@ -77,17 +77,17 @@ a RERA regulated environment.
              <div class="socials-a">
             <ul class="list-inline">
               <li class="list-inline-item">
-                <a href="#">
+                <a href="https://www.facebook.com/dario_realtors-109505928291594/">
                   <i class="bi bi-facebook" style="font-size: 40px;"  aria-hidden="true"></i>
                 </a>
               </li>
               <li class="list-inline-item">
-                <a href="#">
+                <a href="https://twitter.com/Dario_realtors">
                   <i class="bi bi-twitter" style="font-size: 40px;" aria-hidden="true"></i>
                 </a>
               </li>
               <li class="list-inline-item">
-                <a href="#">
+                <a href="https://www.instagram.com/dario_realtors/">
                   <i class="bi bi-instagram" style="font-size: 40px;"  aria-hidden="true"></i>
                 </a>
               </li>

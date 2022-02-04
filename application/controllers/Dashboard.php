@@ -24,7 +24,7 @@ class Dashboard extends CI_Controller {
 		$this->load->helper('url');
 		$this->load->view('header');
 		$this->load->view('nav');
-		$this->load->view('comming_soon');
+		$this->load->view('about');
 		$this->load->view('footer');
 	}
 	
@@ -35,7 +35,7 @@ class Dashboard extends CI_Controller {
 		$this->load->helper('url');
 		$this->load->view('header');
 		$this->load->view('nav');
-		$this->load->view('comming_soon');
+		$this->load->view('buy_residential');
 		$this->load->view('footer');
 	}
 
@@ -45,7 +45,7 @@ class Dashboard extends CI_Controller {
 		$this->load->helper('url');
 		$this->load->view('header');
 		$this->load->view('nav');
-		$this->load->view('comming_soon');
+		$this->load->view('buy_commercial');
 		$this->load->view('footer');
 	}
 
@@ -55,7 +55,7 @@ class Dashboard extends CI_Controller {
 		$this->load->helper('url');
 		$this->load->view('header');
 		$this->load->view('nav');
-		$this->load->view('comming_soon');
+		$this->load->view('buy_land');
 		$this->load->view('footer');
 	}
 
@@ -65,7 +65,7 @@ class Dashboard extends CI_Controller {
 		$this->load->helper('url');
 		$this->load->view('header');
 		$this->load->view('nav');
-		$this->load->view('comming_soon');
+		$this->load->view('sell_residential');
 		$this->load->view('footer');
 	}
 
@@ -75,7 +75,7 @@ class Dashboard extends CI_Controller {
 		$this->load->helper('url');
 		$this->load->view('header');
 		$this->load->view('nav');
-		$this->load->view('comming_soon');
+		$this->load->view('sell_commercial');
 		$this->load->view('footer');
 	}
 
@@ -85,7 +85,7 @@ class Dashboard extends CI_Controller {
 		$this->load->helper('url');
 		$this->load->view('header');
 		$this->load->view('nav');
-		$this->load->view('comming_soon');
+		$this->load->view('sell_land');
 		$this->load->view('footer');
 	}
 
@@ -95,7 +95,7 @@ class Dashboard extends CI_Controller {
 		$this->load->helper('url');
 		$this->load->view('header');
 		$this->load->view('nav');
-		$this->load->view('comming_soon');
+		$this->load->view('rent_wanted');
 		$this->load->view('footer');
 	}
 
@@ -105,7 +105,7 @@ class Dashboard extends CI_Controller {
 		$this->load->helper('url');
 		$this->load->view('header');
 		$this->load->view('nav');
-		$this->load->view('comming_soon');
+		$this->load->view('rent_offered');
 		$this->load->view('footer');
 	}
 
@@ -145,7 +145,7 @@ class Dashboard extends CI_Controller {
 		$this->load->helper('url');
 		$this->load->view('header');
 		$this->load->view('nav');
-		$this->load->view('comming_soon');
+		$this->load->view('contacts');
 		$this->load->view('footer');
 	}
 
@@ -165,7 +165,67 @@ class Dashboard extends CI_Controller {
 		$this->load->helper('url');
 		$this->load->view('header');
 		$this->load->view('nav');
-		$this->load->view('comming_soon');
+		$this->load->view('blog');
+		$this->load->view('footer');
+	}
+	
+
+	public function blog1()
+	{
+		$this->load->helper('url');
+		$this->load->view('header');
+		$this->load->view('nav');
+		$this->load->view('blog1');
+		$this->load->view('footer');
+	}
+	
+
+	public function blog2()
+	{
+		$this->load->helper('url');
+		$this->load->view('header');
+		$this->load->view('nav');
+		$this->load->view('blog2');
+		$this->load->view('footer');
+	}
+	
+
+	public function blog3()
+	{
+		$this->load->helper('url');
+		$this->load->view('header');
+		$this->load->view('nav');
+		$this->load->view('blog3');
+		$this->load->view('footer');
+	}
+	
+
+	public function blog4()
+	{
+		$this->load->helper('url');
+		$this->load->view('header');
+		$this->load->view('nav');
+		$this->load->view('blog4');
+		$this->load->view('footer');
+	}
+	
+
+	public function blog5()
+	{
+		$this->load->helper('url');
+		$this->load->view('header');
+		$this->load->view('nav');
+		$this->load->view('blog5');
+		$this->load->view('footer');
+	}
+	
+
+	public function blog6()
+	{
+		$this->load->helper('url');
+		$this->load->view('header');
+		$this->load->view('nav');
+		$this->load->view('blog6');
 		$this->load->view('footer');
 	}
 
@@ -175,7 +235,7 @@ class Dashboard extends CI_Controller {
 		$this->load->helper('url');
 		$this->load->view('header');
 		$this->load->view('nav');
-		$this->load->view('comming_soon');
+		$this->load->view('site_map');
 		$this->load->view('footer');
 	}
 
@@ -185,7 +245,7 @@ class Dashboard extends CI_Controller {
 		$this->load->helper('url');
 		$this->load->view('header');
 		$this->load->view('nav');
-		$this->load->view('comming_soon');
+		$this->load->view('term_and_condition');
 		$this->load->view('footer');
 	}
 
@@ -195,7 +255,7 @@ class Dashboard extends CI_Controller {
 		$this->load->helper('url');
 		$this->load->view('header');
 		$this->load->view('nav');
-		$this->load->view('comming_soon');
+		$this->load->view('career');
 		$this->load->view('footer');
 	}
 
@@ -205,7 +265,7 @@ class Dashboard extends CI_Controller {
 		$this->load->helper('url');
 		$this->load->view('header');
 		$this->load->view('nav');
-		$this->load->view('comming_soon');
+		$this->load->view('become_agent');
 		$this->load->view('footer');
 	}
 
@@ -215,7 +275,7 @@ class Dashboard extends CI_Controller {
 		$this->load->helper('url');
 		$this->load->view('header');
 		$this->load->view('nav');
-		$this->load->view('comming_soon');
+		$this->load->view('request_sell');
 		$this->load->view('footer');
 	}
 
@@ -225,21 +285,20 @@ class Dashboard extends CI_Controller {
 		$this->load->helper('url');
 		$this->load->view('header');
 		$this->load->view('nav');
-		$this->load->view('comming_soon');
+		$this->load->view('privacy_policy');
 		$this->load->view('footer');
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
+
+	public function property_list()
+	{
+		$this->load->helper('url');
+		$this->load->view('header');
+		$this->load->view('nav');
+		$this->load->view('property_list');
+		$this->load->view('footer');
+	}
+
 	
 	
 

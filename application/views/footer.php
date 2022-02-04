@@ -32,7 +32,7 @@ a RERA regulated environment.
               <div class="w-body-a">
                 <ul class="list-unstyled">
                   <li class="item-list-a">
-                    <i class="bi bi-chevron-right"></i> <a href="<?php echo base_url('Blog'); ?>">Blog</a>
+                    <i class="bi bi-chevron-right"></i> <a href="<?php echo base_url('Swachh-Bharat-Mission'); ?>">Blog</a>
                   </li>
                   <li class="item-list-a">
                     <i class="bi bi-chevron-right"></i> <a href="<?php echo base_url('Site-Map'); ?>">Site Map</a>
